@@ -1,12 +1,16 @@
+import Social from '../@rocketseat/gatsby-theme-docs/components/Social.jsx';
+
 ---
-title: 'Getting started'
----
+
+## title: 'Getting started'
 
 The best way yo start is by using our starter:
 
 ```bash
 gatsby new rocket-docs https://github.com/rocketseat/gatsby-starter-rocket-docs
 ```
+
+<Social />
 
 But, if you prefer, you can install and configure manually.
 
@@ -32,26 +36,26 @@ npm i @rocketseat/gatsby-theme-docs
 
 ```js title=gatsby-config.js
 module.exports = {
-  siteMetadata: {
-    siteTitle: `@rocketseat/gatsby-theme-docs`,
-    defaultTitle: `@rocketseat/gatsby-theme-docs`,
-    siteTitleShort: `gatsby-theme-docs`,
-    siteDescription: `Out of the box Gatsby Theme for creating documentation websites easily and quickly`,
-    siteUrl: `https://rocketdocs.netlify.com`,
-    siteAuthor: `@rocketseat`,
-    siteImage: `/banner.png`,
-    siteLanguage: `en`,
-    themeColor: `#7159c1`,
-  },
-  plugins: [
-    {
-      resolve: `@rocketseat/gatsby-theme-docs`,
-      options: {
-        docsPath: `src/docs`,
-        basePath: `/`,
-      },
-    },
-  ],
+	siteMetadata: {
+		siteTitle: `@rocketseat/gatsby-theme-docs`,
+		defaultTitle: `@rocketseat/gatsby-theme-docs`,
+		siteTitleShort: `gatsby-theme-docs`,
+		siteDescription: `Out of the box Gatsby Theme for creating documentation websites easily and quickly`,
+		siteUrl: `https://rocketdocs.netlify.com`,
+		siteAuthor: `@rocketseat`,
+		siteImage: `/banner.png`,
+		siteLanguage: `en`,
+		themeColor: `#7159c1`,
+	},
+	plugins: [
+		{
+			resolve: `@rocketseat/gatsby-theme-docs`,
+			options: {
+				docsPath: `src/docs`,
+				basePath: `/`,
+			},
+		},
+	],
 };
 ```
 

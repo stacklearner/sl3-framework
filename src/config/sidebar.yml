@@ -6,9 +6,13 @@
   link: '/getting-started'
 - label: Usage
   items:
-    - label: 'Creating docs'
-      link: '/usage/creating-docs'
-    - label: 'Navigation'
-      link: '/usage/navigation'
-    - label: 'Shadowing'
-      link: '/usage/shadowing'
+      - label: 'Creating docs'
+        link: '/usage/creating-docs'
+      - label: 'Navigation'
+        link: '/usage/navigation'
+      - label: 'Shadowing'
+        link: '/usage/shadowing'
+- label: Test Me
+  items:
+      - label: Hello
+        link: '/test/hello'
