@@ -4,6 +4,8 @@
   link: '/'
 - label: 'Getting started'
   link: '/getting-started'
+- label: 'Join Our Program'
+  link: '/our-program'
 - label: Usage
   items:
       - label: 'Creating docs'
