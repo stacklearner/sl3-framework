@@ -20,3 +20,7 @@
         link: '/programming-fundamentals/overview'
       - label: 'Variables'
         link: '/programming-fundamentals/variables'
+      - label: 'Operators'
+        link: '/programming-fundamentals/operators'
+      - label: 'Conditions'
+        link: '/programming-fundamentals/conditions'
