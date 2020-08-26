@@ -6,7 +6,7 @@ module.exports = {
 		siteDescription: `SL3 Framework - Stack Learner Language Learning Framework which will force to you think like a computer scientist.`,
 		siteUrl: `https://sl3.app`,
 		siteAuthor: `@stacklearner`,
-		siteImage: `/banner.png`,
+		siteImage: `static/banner.png`,
 		siteLanguage: `en`,
 		themeColor: `#7159c1`,
 		basePath: `/`,
