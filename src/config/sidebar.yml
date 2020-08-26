@@ -12,3 +12,5 @@
   link: '/purpose_of_programming'
 - label: 'Why Do We Learn Programming?'
   link: '/why_do_we_learn_programming'
+- label: 'Pseudo Code'
+  link: '/pseudo_code'
