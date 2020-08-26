@@ -14,3 +14,9 @@
   link: '/why_do_we_learn_programming'
 - label: 'Pseudo Code'
   link: '/pseudo_code'
+- label: 'Programming Fundamentals'
+  items:
+      - label: 'Overview'
+        link: '/programming_fundamentals/overview'
+      - label: 'Variables'
+        link: '/programming_fundamentals/variables'
