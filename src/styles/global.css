@@ -23,4 +23,6 @@ p {
 	color: #666666 !important;
 	font-family: 'Kohinoor' !important;
 	font-size: 1.1rem !important;
+	text-align: justify !important;
+	line-height: 1.6 !important;
 }
