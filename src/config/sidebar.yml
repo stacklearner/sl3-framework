@@ -24,3 +24,5 @@
         link: '/programming-fundamentals/operators'
       - label: 'Conditions'
         link: '/programming-fundamentals/conditions'
+- label: 'Operators'
+  link: '/programming-fundamentals/operators'
