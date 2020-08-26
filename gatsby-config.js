@@ -47,6 +47,15 @@ module.exports = {
 			},
 		},
 		`gatsby-plugin-offline`,
+		{
+			resolve: 'gatsby-plugin-web-font-loader',
+			options: {
+				custom: {
+					families: ['Kohinoor', 'Roboto'],
+					urls: ['/fonts/fonts.css'],
+				},
+			},
+		},
 	],
 	pathPrefix: '/sl3-framework',
 };
