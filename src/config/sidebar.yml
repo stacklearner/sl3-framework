@@ -4,19 +4,11 @@
   link: '/'
 - label: 'Motivation'
   link: '/motivation'
-- label: 'Getting started'
-  link: '/getting-started'
-- label: 'Join Our Program'
-  link: '/our-program'
-- label: Usage
-  items:
-      - label: 'Creating docs'
-        link: '/usage/creating-docs'
-      - label: 'Navigation'
-        link: '/usage/navigation'
-      - label: 'Shadowing'
-        link: '/usage/shadowing'
-- label: Test Me
-  items:
-      - label: Hello
-        link: '/test/hello'
+- label: 'Kickstart'
+  link: '/kickstart'
+- label: 'Purpose of Computer'
+  link: '/purpose_of_computer'
+- label: 'Purpose of Programming'
+  link: '/purpose_of_programming'
+- label: 'Why Do We Learn Programming?'
+  link: '/why_do_we_learn_programming'
