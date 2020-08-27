@@ -15,6 +15,7 @@
     "gatsby-plugin-offline": "^3.0.32",
     "gatsby-plugin-sitemap": "^2.2.26",
     "gatsby-plugin-web-font-loader": "^1.0.4",
+    "gatsby-remark-responsive-iframe": "^2.4.12",
     "prop-types": "^15.7.2",
     "react": "latest",
     "react-dom": "latest"
