@@ -107,6 +107,8 @@
         link: 'https://youtube.com/stacklearner'
       - label: 'Premium Courses'
         link: 'https://courses.stackschool.co'
+      - label: 'Free Consultancy'
+        link: 'https://courses.stackschool.co/pages/consultancy'
       - label: 'Stack Journal'
         link: 'https://journal.stacklearner.com'
       - label: 'Official Page'
