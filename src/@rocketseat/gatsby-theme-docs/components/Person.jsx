@@ -1,7 +1,6 @@
 import React from 'react';
 
 const wrapperStyle = {
-	textAlign: 'center',
 	marginTop: '3rem',
 	marginBottom: '1rem',
 	display: 'inline-block',
@@ -10,7 +9,7 @@ const wrapperStyle = {
 const imgWrapperStyle = {
 	width: '300px',
 	height: '300px',
-	borderRadius: '50%',
+	borderRadius: '0.5rem',
 	overflow: 'hidden',
 };
 
