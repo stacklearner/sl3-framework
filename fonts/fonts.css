@@ -1,0 +1,29 @@
+@font-face {
+	font-family: Kohinoor;
+	src: url('kohinoorBangla-Bold.otd');
+	font-weight: bold;
+}
+
+@font-face {
+	font-family: Kohinoor;
+	src: url('KohinoorBangla-Light.otf');
+	font-weight: lighter;
+}
+
+@font-face {
+	font-family: Kohinoor;
+	src: url('KohinoorBangla-Medium.otf');
+	font-weight: 600;
+}
+
+@font-face {
+	font-family: Kohinoor;
+	src: url('KohinoorBangla-Semibold.otf');
+	font-weight: 700;
+}
+
+@font-face {
+	font-family: Kohinoor;
+	src: url('KohinoorBangla-Regular.otf');
+	font-weight: normal;
+}
